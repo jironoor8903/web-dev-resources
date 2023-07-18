@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 
-This repository is a compilation of links to help developers build their web application
+This repository is a compilation of links to help developers build their web applications.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
