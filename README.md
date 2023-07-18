@@ -91,6 +91,9 @@ This repository is a compilation of links to help developers build their web app
 Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
 <br>
 <br>
+<b> Contributors: </b>
+<br>
+<br>
 <a href="https://github.com/jironoor8903/web-dev-resources/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jironoor8903/web-dev-resources" />
 </a>
