@@ -28,6 +28,7 @@ This repository is a compilation of links to help developers build their web app
 | Shards-UI         | https://designrevision.com/shards| Free and modern Bootstrap 4 UI toolkit.|
 | Muuri| https://muuri.dev| Responsive, sortable, filterable, and draggable grid layouts.|
 | Sandpack| https://sandpack.codesandbox.io/docs| Sandpack is a component toolkit for creating live-running code editing experiences, powered by the online bundler used on CodeSandbox.|
+| Loaders| https://uiball.com/loaders| Collection of loading animations.|
 
 ## CSS
 | Name    | Link | Notes |
